@@ -79,8 +79,6 @@ We welcome contributions from all IEEE UoM members and collaborators. Here’s h
 - **MoraForesight** - Annual tech innovation exhibition.
 - **MoraUXplore** - UI/UX innovation and design challenge.
 - **RiseUp Mora** - Career guidance and personal development platform.
-- **XbotiX** - Robotics competition platform.
-- **INSL** - Innovation Nation Sri Lanka.
 
 ---
 
