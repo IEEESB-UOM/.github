@@ -83,6 +83,6 @@ We welcome contributions from all IEEE UoM members and collaborators. Here’s h
 ---
 
 ## Contact Us 📬
-- 📧 **Email:** ieeesbuom@gmail.com  
+- 📧 **Email:** ieeesbuom.2526@gmail.com 
 - 🌐 **Website:** [ieeesb.uom.lk](https://ieeesb.uom.lk/)  
-- 📱 **Socials:** [Facebook](https://www.facebook.com/ieeeuom), [Instagram](https://www.instagram.com/ieeeuom/), [LinkedIn](https://www.linkedin.com/company/ieee-student-branch-university-of-moratuwa)
+- 📱 **Socials:** [Facebook](https://web.facebook.com/IEEEUOMSB), [Instagram](https://www.instagram.com/ieeesbuom/), [LinkedIn](https://www.linkedin.com/company/ieeeuomsb/), [YouTube](https://www.youtube.com/@IEEEUOMSB)
